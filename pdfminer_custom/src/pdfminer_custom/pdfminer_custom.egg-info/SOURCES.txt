@@ -1,0 +1,6 @@
+setup.py
+pdfminer_custom.egg-info/PKG-INFO
+pdfminer_custom.egg-info/SOURCES.txt
+pdfminer_custom.egg-info/dependency_links.txt
+pdfminer_custom.egg-info/requires.txt
+pdfminer_custom.egg-info/top_level.txt
